@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tek4you/Project1-Test/issues"
   },
-  "homepage": "https://github.com/tek4you/Project1-Test#readme"
+  "homepage": "https://github.com/tek4you/Project1-Test#readme",
+  "dependencies": {
+    "jshint": "^2.9.7"
+  }
 }
